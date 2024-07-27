@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 #### ✨ Blog & Note
 
 #### ✨ Dev logs
-[![JeongminAhn's github stats](https://github-readme-stats.vercel.app/api?username=jeongmin1016&count_private=true&custom_title=jeongmin's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin1016&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
