@@ -42,11 +42,5 @@ Here are some ideas to get you started:
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
-### ✨ Dev logs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongminia&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-
 
 
